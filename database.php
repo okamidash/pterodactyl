@@ -110,7 +110,7 @@ return [
               'auth' => [
                 env('REDIS_USERNAME'), null),
                 env('REDIS_PASSWORD'), null)
-                ]
+                ],
             ],
         ],
 
@@ -133,7 +133,7 @@ return [
               'auth' => [
                 env('REDIS_USERNAME'), null),
                 env('REDIS_PASSWORD'), null)
-                ]
+                ],
             ],
         ],
     ],
